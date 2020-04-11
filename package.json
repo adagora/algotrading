@@ -1,0 +1,16 @@
+{
+  "name": "tradingbot",
+  "version": "1.0.0",
+  "description": "crypto trading bot for real",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AdrianGora",
+  "license": "ISC",
+  "dependencies": {
+    "cryptocompare": "^1.0.0",
+    "gemini-api": "^2.0.4",
+    "node-fetch": "^2.6.0"
+  }
+}
